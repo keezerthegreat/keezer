@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": "562c",
+      "userName": "Keezerthegreat",
+      "password": "$2a$10$YGK4serVeUyh1rRZOJklcO9MHiK4AYyenP.fRVfMHcgA6LE/wLa8a",
+      "newPassword": "",
+      "confirmPassword": "Iamawesome22",
+      "recoveryPass": "",
+      "firstName": "keezer",
+      "middleName": "",
+      "lastName": "Oquias",
+      "email": "Keezeroquias0@gmail.com",
+      "phoneNum": "09684195613",
+      "open": true,
+      "open2": true,
+      "open3": true
+    },
+    {
+      "id": "adf3",
+      "userName": "keezer",
+      "password": "$2a$10$SCGtgNnbantXuYnCl/BSe.MEMNmtLM5dXW7rf5zmUWdENXaf5FDc.",
+      "newPassword": "",
+      "confirmPassword": "Iamawesome#22",
+      "recoveryPass": "keezer",
+      "firstName": "keezer",
+      "middleName": "floresd",
+      "lastName": "oquias",
+      "email": "keezer@gmail.com",
+      "phoneNum": "09684195613",
+      "open": true,
+      "open2": true,
+      "open3": true
+    }
+  ],
+  "students": [
+    {
+      "id": "0.9373480252433448",
+      "firstName": "keezer",
+      "middleName": "flores",
+      "lastName": "oquias",
+      "sex": "Female",
+      "email": "keezeroquias0@gmail.com"
+    }
+  ],
+  "archive": []
+}
